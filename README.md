@@ -1,2 +1,2 @@
 # Remix-Ashadu-Life
-Muslim ewligios app
+Muslim app
