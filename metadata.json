@@ -1,0 +1,9 @@
+{
+  "name": "Remix: ASHADU - LIFE",
+  "description": "A modern Islamic ecosystem combining AI Tajweed, Zikr, and Legacy Projects. Track your progress, explore wisdom, and build ongoing charity.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
